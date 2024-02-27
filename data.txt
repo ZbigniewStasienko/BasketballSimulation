@@ -1,0 +1,9 @@
+name;number;shooting;defence;rebound
+Team One
+John;11;0.5;0.5
+Tom;2;0.5;0.5
+Jack;33;0.7;0.2;0.1
+Team Two
+Bryan;41;0.5;0.5
+Alex;6;0.5;0.5
+Howard;7;0.7;0.2;0.1

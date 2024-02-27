@@ -1,0 +1,3855 @@
+Opening of the document
+
+Drawing the starting team
+Team Two starts the game
+
+Action number 1
+
+Team Two in action
+Bryan has ball
+Bryan dribbles
+John steal
+Change of possesion - opponent stole the ball
+
+Action number 2
+
+Team One in action
+John has ball
+John dribbles
+John shoots
+John missed shot
+Change of possesion - opponents got rebound
+
+Action number 3
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex shoots
+Alex made shot
+Assist from player Bryan
+Change of possesion - shot was made
+
+Action number 4
+
+Team One in action
+Tom has ball
+Tom shoots
+Tom missed shot
+Jack offensive rebound
+Jack shoots
+Jack made shot
+Change of possesion - shot was made
+
+Action number 5
+
+Team Two in action
+Alex has ball
+Alex passed the ball to Bryan
+Bryan passed the ball to Alex
+Alex passed the ball to Bryan
+Bryan shoots
+Bryan made shot
+Assist from player Alex
+Change of possesion - shot was made
+
+Action number 6
+
+Team One in action
+John has ball
+John dribbles
+John passed the ball to Tom
+Tom shoots
+Tom missed shot
+Change of possesion - opponents got rebound
+
+Action number 7
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex passed the ball to Bryan
+Bryan passed the ball to Alex
+Alex passed the ball to Bryan
+Bryan shoots
+Bryan made shot
+Assist from player Alex
+Change of possesion - shot was made
+
+Action number 8
+
+Team One in action
+John has ball
+John dribbles
+John passed the ball to Tom
+Tom passed the ball to John
+John passed the ball to Tom
+Tom shoots
+Tom missed shot
+Change of possesion - opponents got rebound
+
+Action number 9
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex passed the ball to Bryan
+Bryan passed the ball to Alex
+Alex shoots
+Alex missed shot
+Change of possesion - opponents got rebound
+
+Action number 10
+
+Team One in action
+Tom has ball
+Tom shoots
+Tom missed shot
+Change of possesion - opponents got rebound
+
+Action number 11
+
+Team Two in action
+Bryan has ball
+Bryan dribbles
+John steal
+Change of possesion - opponent stole the ball
+
+Action number 12
+
+Team One in action
+Tom has ball
+Tom passed the ball to John
+John shoots
+John missed shot
+Change of possesion - opponents got rebound
+
+Action number 13
+
+Team Two in action
+Bryan has ball
+Bryan dribbles
+Bryan passed the ball to Alex
+Alex passed the ball to Bryan
+Bryan shoots
+Bryan missed shot
+Change of possesion - opponents got rebound
+
+Action number 14
+
+Team One in action
+Tom has ball
+Tom shoots
+Tom made shot
+Change of possesion - shot was made
+
+Action number 15
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex dribbles
+Tom steal
+Change of possesion - opponent stole the ball
+
+Action number 16
+
+Team One in action
+Tom has ball
+Tom passed the ball to John
+John passed the ball to Tom
+Tom shoots
+Tom missed shot
+Change of possesion - opponents got rebound
+
+Action number 17
+
+Team Two in action
+Alex has ball
+Alex dribbles
+Alex shoots
+Alex made shot
+Change of possesion - shot was made
+
+Action number 18
+
+Team One in action
+John has ball
+John dribbles
+Bryan steal
+Change of possesion - opponent stole the ball
+
+Action number 19
+
+Team Two in action
+Alex has ball
+Alex dribbles
+Alex passed the ball to Bryan
+Bryan passed the ball to Alex
+Alex passed the ball to Bryan
+Bryan passed the ball to Alex
+Alex dribbles
+Tom steal
+Change of possesion - opponent stole the ball
+
+Action number 20
+
+Team One in action
+Tom has ball
+Tom passed the ball to John
+John passed the ball to Tom
+Tom passed the ball to John
+John shoots
+John missed shot
+Change of possesion - opponents got rebound
+
+Action number 21
+
+Team Two in action
+Bryan has ball
+Bryan dribbles
+Bryan passed the ball to Alex
+Alex passed the ball to Bryan
+Bryan dribbles
+Bryan shoots
+Bryan missed shot
+Change of possesion - opponents got rebound
+
+Action number 22
+
+Team One in action
+John has ball
+John dribbles
+Bryan steal
+Change of possesion - opponent stole the ball
+
+Action number 23
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex passed the ball to Bryan
+Bryan dribbles
+Bryan shoots
+Bryan missed shot
+Change of possesion - opponents got rebound
+
+Action number 24
+
+Team One in action
+John has ball
+John shoots
+John missed shot
+Change of possesion - opponents got rebound
+
+Action number 25
+
+Team Two in action
+Alex has ball
+Alex dribbles
+Alex dribbles
+Tom steal
+Change of possesion - opponent stole the ball
+
+Action number 26
+
+Team One in action
+John has ball
+John shoots
+John made shot
+Change of possesion - shot was made
+
+Action number 27
+
+Team Two in action
+Alex has ball
+Alex passed the ball to Bryan
+Bryan shoots
+Bryan missed shot
+Change of possesion - opponents got rebound
+
+Action number 28
+
+Team One in action
+Tom has ball
+Tom shoots
+Tom missed shot
+Change of possesion - opponents got rebound
+
+Action number 29
+
+Team Two in action
+Bryan has ball
+Bryan shoots
+Bryan made shot
+Change of possesion - shot was made
+
+Action number 30
+
+Team One in action
+Tom has ball
+Tom shoots
+Tom made shot
+Change of possesion - shot was made
+
+Action number 31
+
+Team Two in action
+Alex has ball
+Alex shoots
+Alex missed shot
+Howard offensive rebound
+Howard passed the ball to Bryan
+Bryan shoots
+Bryan missed shot
+Change of possesion - opponents got rebound
+
+Action number 32
+
+Team One in action
+John has ball
+John dribbles
+John passed the ball to Tom
+Tom dribbles
+Tom passed the ball to John
+John passed the ball to Tom
+Tom passed the ball to John
+John shoots
+John missed shot
+Change of possesion - opponents got rebound
+
+Action number 33
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex dribbles
+Tom steal
+Change of possesion - opponent stole the ball
+
+Action number 34
+
+Team One in action
+Tom has ball
+Tom dribbles
+Tom dribbles
+Tom shoots
+Tom missed shot
+Change of possesion - opponents got rebound
+
+Action number 35
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex dribbles
+Tom steal
+Change of possesion - opponent stole the ball
+
+Action number 36
+
+Team One in action
+Tom has ball
+Tom shoots
+Tom made shot
+Change of possesion - shot was made
+
+Action number 37
+
+Team Two in action
+Alex has ball
+Alex passed the ball to Bryan
+Bryan shoots
+Bryan missed shot
+Change of possesion - opponents got rebound
+
+Action number 38
+
+Team One in action
+John has ball
+John passed the ball to Tom
+Tom passed the ball to John
+John shoots
+John made shot
+Assist from player Tom
+Change of possesion - shot was made
+
+Action number 39
+
+Team Two in action
+Alex has ball
+Alex shoots
+Alex missed shot
+Change of possesion - opponents got rebound
+
+Action number 40
+
+Team One in action
+John has ball
+John dribbles
+Bryan steal
+Change of possesion - opponent stole the ball
+
+Action number 41
+
+Team Two in action
+Bryan has ball
+Bryan dribbles
+John steal
+Change of possesion - opponent stole the ball
+
+Action number 42
+
+Team One in action
+John has ball
+John shoots
+John made shot
+Change of possesion - shot was made
+
+Action number 43
+
+Team Two in action
+Alex has ball
+Alex passed the ball to Bryan
+Bryan passed the ball to Alex
+Alex dribbles
+Tom steal
+Change of possesion - opponent stole the ball
+
+Action number 44
+
+Team One in action
+John has ball
+John passed the ball to Tom
+Tom passed the ball to John
+John shoots
+John missed shot
+Change of possesion - opponents got rebound
+
+Action number 45
+
+Team Two in action
+Alex has ball
+Alex shoots
+Alex made shot
+Change of possesion - shot was made
+
+Action number 46
+
+Team One in action
+Tom has ball
+Tom shoots
+Tom made shot
+Change of possesion - shot was made
+
+Action number 47
+
+Team Two in action
+Bryan has ball
+Bryan dribbles
+John steal
+Change of possesion - opponent stole the ball
+
+Action number 48
+
+Team One in action
+John has ball
+John dribbles
+Bryan steal
+Change of possesion - opponent stole the ball
+
+Action number 49
+
+Team Two in action
+Bryan has ball
+Bryan dribbles
+John steal
+Change of possesion - opponent stole the ball
+
+Action number 50
+
+Team One in action
+Tom has ball
+Tom passed the ball to John
+John dribbles
+John dribbles
+John shoots
+John missed shot
+Change of possesion - opponents got rebound
+
+Action number 51
+
+Team Two in action
+Bryan has ball
+Bryan shoots
+Bryan missed shot
+Change of possesion - opponents got rebound
+
+Action number 52
+
+Team One in action
+John has ball
+John shoots
+John made shot
+Change of possesion - shot was made
+
+Action number 53
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex dribbles
+Tom steal
+Change of possesion - opponent stole the ball
+
+Action number 54
+
+Team One in action
+Tom has ball
+Tom passed the ball to John
+John dribbles
+John passed the ball to Tom
+Tom dribbles
+Alex steal
+Change of possesion - opponent stole the ball
+
+Action number 55
+
+Team Two in action
+Alex has ball
+Alex dribbles
+Tom steal
+Change of possesion - opponent stole the ball
+
+Action number 56
+
+Team One in action
+John has ball
+John shoots
+John made shot
+Change of possesion - shot was made
+
+Action number 57
+
+Team Two in action
+Bryan has ball
+Bryan shoots
+Bryan missed shot
+Change of possesion - opponents got rebound
+
+Action number 58
+
+Team One in action
+John has ball
+John passed the ball to Tom
+Tom shoots
+Tom missed shot
+Change of possesion - opponents got rebound
+
+Action number 59
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex dribbles
+Tom steal
+Change of possesion - opponent stole the ball
+
+Action number 60
+
+Team One in action
+Tom has ball
+Tom passed the ball to John
+John passed the ball to Tom
+Tom dribbles
+Alex steal
+Change of possesion - opponent stole the ball
+
+Action number 61
+
+Team Two in action
+Bryan has ball
+Bryan shoots
+Bryan made shot
+Change of possesion - shot was made
+
+Action number 62
+
+Team One in action
+Tom has ball
+Tom passed the ball to John
+John dribbles
+John dribbles
+Bryan steal
+Change of possesion - opponent stole the ball
+
+Action number 63
+
+Team Two in action
+Alex has ball
+Alex shoots
+Alex missed shot
+Change of possesion - opponents got rebound
+
+Action number 64
+
+Team One in action
+John has ball
+John shoots
+John made shot
+Change of possesion - shot was made
+
+Action number 65
+
+Team Two in action
+Alex has ball
+Alex shoots
+Alex made shot
+Change of possesion - shot was made
+
+Action number 66
+
+Team One in action
+Tom has ball
+Tom dribbles
+Tom shoots
+Tom made shot
+Change of possesion - shot was made
+
+Action number 67
+
+Team Two in action
+Bryan has ball
+Bryan shoots
+Bryan missed shot
+Change of possesion - opponents got rebound
+
+Action number 68
+
+Team One in action
+John has ball
+John passed the ball to Tom
+Tom passed the ball to John
+John dribbles
+Bryan steal
+Change of possesion - opponent stole the ball
+
+Action number 69
+
+Team Two in action
+Alex has ball
+Alex shoots
+Alex missed shot
+Change of possesion - opponents got rebound
+
+Action number 70
+
+Team One in action
+John has ball
+John shoots
+John missed shot
+Change of possesion - opponents got rebound
+
+Action number 71
+
+Team Two in action
+Bryan has ball
+Bryan shoots
+Bryan made shot
+Change of possesion - shot was made
+
+Action number 72
+
+Team One in action
+John has ball
+John shoots
+John missed shot
+Change of possesion - opponents got rebound
+
+Action number 73
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex passed the ball to Bryan
+Bryan dribbles
+John steal
+Change of possesion - opponent stole the ball
+
+Action number 74
+
+Team One in action
+John has ball
+John shoots
+John missed shot
+Change of possesion - opponents got rebound
+
+Action number 75
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex shoots
+Alex made shot
+Assist from player Bryan
+Change of possesion - shot was made
+
+Action number 76
+
+Team One in action
+Tom has ball
+Tom shoots
+Tom made shot
+Change of possesion - shot was made
+
+Action number 77
+
+Team Two in action
+Bryan has ball
+Bryan shoots
+Bryan made shot
+Change of possesion - shot was made
+
+Action number 78
+
+Team One in action
+John has ball
+John shoots
+John made shot
+Change of possesion - shot was made
+
+Action number 79
+
+Team Two in action
+Alex has ball
+Alex passed the ball to Bryan
+Bryan dribbles
+Bryan dribbles
+John steal
+Change of possesion - opponent stole the ball
+
+Action number 80
+
+Team One in action
+John has ball
+John passed the ball to Tom
+Tom dribbles
+Tom dribbles
+Tom passed the ball to John
+John dribbles
+Bryan steal
+Change of possesion - opponent stole the ball
+
+Action number 81
+
+Team Two in action
+Bryan has ball
+Bryan dribbles
+Bryan passed the ball to Alex
+Alex shoots
+Alex missed shot
+Change of possesion - opponents got rebound
+
+Action number 82
+
+Team One in action
+John has ball
+John passed the ball to Tom
+Tom dribbles
+Alex steal
+Change of possesion - opponent stole the ball
+
+Action number 83
+
+Team Two in action
+Bryan has ball
+Bryan shoots
+Bryan made shot
+Change of possesion - shot was made
+
+Action number 84
+
+Team One in action
+Tom has ball
+Tom shoots
+Tom missed shot
+Change of possesion - opponents got rebound
+
+Action number 85
+
+Team Two in action
+Bryan has ball
+Bryan shoots
+Bryan made shot
+Change of possesion - shot was made
+
+Action number 86
+
+Team One in action
+John has ball
+John dribbles
+John dribbles
+John dribbles
+John shoots
+John missed shot
+Change of possesion - opponents got rebound
+
+Action number 87
+
+Team Two in action
+Bryan has ball
+Bryan dribbles
+John steal
+Change of possesion - opponent stole the ball
+
+Action number 88
+
+Team One in action
+John has ball
+John passed the ball to Tom
+Tom passed the ball to John
+John passed the ball to Tom
+Tom shoots
+Tom missed shot
+Change of possesion - opponents got rebound
+
+Action number 89
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex shoots
+Alex missed shot
+Change of possesion - opponents got rebound
+
+Action number 90
+
+Team One in action
+John has ball
+John passed the ball to Tom
+Tom passed the ball to John
+John shoots
+John missed shot
+Change of possesion - opponents got rebound
+
+Action number 91
+
+Team Two in action
+Alex has ball
+Alex shoots
+Alex missed shot
+Change of possesion - opponents got rebound
+
+Action number 92
+
+Team One in action
+Tom has ball
+Tom dribbles
+Tom passed the ball to John
+John passed the ball to Tom
+Tom dribbles
+Tom shoots
+Tom made shot
+Change of possesion - shot was made
+
+Action number 93
+
+Team Two in action
+Bryan has ball
+Bryan dribbles
+Bryan shoots
+Bryan missed shot
+Change of possesion - opponents got rebound
+
+Action number 94
+
+Team One in action
+Tom has ball
+Tom passed the ball to John
+John dribbles
+Bryan steal
+Change of possesion - opponent stole the ball
+
+Action number 95
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex dribbles
+Alex dribbles
+Alex dribbles
+Alex shoots
+Alex made shot
+Change of possesion - shot was made
+
+Action number 96
+
+Team One in action
+Tom has ball
+Tom shoots
+Tom missed shot
+Change of possesion - opponents got rebound
+
+Action number 97
+
+Team Two in action
+Alex has ball
+Alex dribbles
+Tom steal
+Change of possesion - opponent stole the ball
+
+Action number 98
+
+Team One in action
+John has ball
+John shoots
+John missed shot
+Change of possesion - opponents got rebound
+
+Action number 99
+
+Team Two in action
+Alex has ball
+Alex passed the ball to Bryan
+Bryan shoots
+Bryan made shot
+Assist from player Alex
+Change of possesion - shot was made
+
+Action number 100
+
+Team One in action
+Tom has ball
+Tom dribbles
+Alex steal
+Change of possesion - opponent stole the ball
+
+Action number 101
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex passed the ball to Bryan
+Bryan shoots
+Bryan made shot
+Assist from player Alex
+Change of possesion - shot was made
+
+Action number 102
+
+Team One in action
+John has ball
+John dribbles
+John passed the ball to Tom
+Tom shoots
+Tom missed shot
+Change of possesion - opponents got rebound
+
+Action number 103
+
+Team Two in action
+Alex has ball
+Alex passed the ball to Bryan
+Bryan dribbles
+John steal
+Change of possesion - opponent stole the ball
+
+Action number 104
+
+Team One in action
+John has ball
+John dribbles
+Bryan steal
+Change of possesion - opponent stole the ball
+
+Action number 105
+
+Team Two in action
+Alex has ball
+Alex dribbles
+Tom steal
+Change of possesion - opponent stole the ball
+
+Action number 106
+
+Team One in action
+Tom has ball
+Tom dribbles
+Tom passed the ball to John
+John passed the ball to Tom
+Tom passed the ball to John
+John shoots
+John missed shot
+Change of possesion - opponents got rebound
+
+Action number 107
+
+Team Two in action
+Alex has ball
+Alex dribbles
+Alex shoots
+Alex made shot
+Change of possesion - shot was made
+
+Action number 108
+
+Team One in action
+Tom has ball
+Tom shoots
+Tom missed shot
+Change of possesion - opponents got rebound
+
+Action number 109
+
+Team Two in action
+Alex has ball
+Alex dribbles
+Alex dribbles
+Tom steal
+Change of possesion - opponent stole the ball
+
+Action number 110
+
+Team One in action
+John has ball
+John dribbles
+John dribbles
+John dribbles
+John dribbles
+John passed the ball to Tom
+Tom shoots
+Tom missed shot
+Change of possesion - opponents got rebound
+
+Action number 111
+
+Team Two in action
+Alex has ball
+Alex shoots
+Alex missed shot
+Change of possesion - opponents got rebound
+
+Action number 112
+
+Team One in action
+Tom has ball
+Tom dribbles
+Tom passed the ball to John
+John shoots
+John made shot
+Assist from player Tom
+Change of possesion - shot was made
+
+Action number 113
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex passed the ball to Bryan
+Bryan shoots
+Bryan missed shot
+Change of possesion - opponents got rebound
+
+Action number 114
+
+Team One in action
+Tom has ball
+Tom shoots
+Tom missed shot
+Change of possesion - opponents got rebound
+
+Action number 115
+
+Team Two in action
+Bryan has ball
+Bryan shoots
+Bryan missed shot
+Change of possesion - opponents got rebound
+
+Action number 116
+
+Team One in action
+Tom has ball
+Tom dribbles
+Alex steal
+Change of possesion - opponent stole the ball
+
+Action number 117
+
+Team Two in action
+Bryan has ball
+Bryan dribbles
+Bryan dribbles
+John steal
+Change of possesion - opponent stole the ball
+
+Action number 118
+
+Team One in action
+John has ball
+John passed the ball to Tom
+Tom passed the ball to John
+John dribbles
+Bryan steal
+Change of possesion - opponent stole the ball
+
+Action number 119
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex passed the ball to Bryan
+Bryan passed the ball to Alex
+Alex shoots
+Alex missed shot
+Change of possesion - opponents got rebound
+
+Action number 120
+
+Team One in action
+John has ball
+John shoots
+John made shot
+Change of possesion - shot was made
+
+Action number 121
+
+Team Two in action
+Alex has ball
+Alex shoots
+Alex made shot
+Change of possesion - shot was made
+
+Action number 122
+
+Team One in action
+Tom has ball
+Tom dribbles
+Tom dribbles
+Tom shoots
+Tom missed shot
+Change of possesion - opponents got rebound
+
+Action number 123
+
+Team Two in action
+Bryan has ball
+Bryan dribbles
+John steal
+Change of possesion - opponent stole the ball
+
+Action number 124
+
+Team One in action
+John has ball
+John passed the ball to Tom
+Tom dribbles
+Alex steal
+Change of possesion - opponent stole the ball
+
+Action number 125
+
+Team Two in action
+Bryan has ball
+Bryan shoots
+Bryan made shot
+Change of possesion - shot was made
+
+Action number 126
+
+Team One in action
+Tom has ball
+Tom passed the ball to John
+John shoots
+John made shot
+Assist from player Tom
+Change of possesion - shot was made
+
+Action number 127
+
+Team Two in action
+Bryan has ball
+Bryan dribbles
+Bryan shoots
+Bryan missed shot
+Change of possesion - opponents got rebound
+
+Action number 128
+
+Team One in action
+John has ball
+John dribbles
+Bryan steal
+Change of possesion - opponent stole the ball
+
+Action number 129
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex shoots
+Alex missed shot
+Change of possesion - opponents got rebound
+
+Action number 130
+
+Team One in action
+John has ball
+John passed the ball to Tom
+Tom dribbles
+Tom shoots
+Tom missed shot
+Change of possesion - opponents got rebound
+
+Action number 131
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex shoots
+Alex made shot
+Assist from player Bryan
+Change of possesion - shot was made
+
+Action number 132
+
+Team One in action
+John has ball
+John shoots
+John made shot
+Change of possesion - shot was made
+
+Action number 133
+
+Team Two in action
+Bryan has ball
+Bryan dribbles
+Bryan passed the ball to Alex
+Alex shoots
+Alex made shot
+Assist from player Bryan
+Change of possesion - shot was made
+
+End of the game
+Stats from the game: 
+
+John
+Made shots: 11.0
+Missed shots: 14.0
+Field goal percentage: 44.0%
+Assists: 0.0
+Steals: 11.0
+
+Tom
+Made shots: 7.0
+Missed shots: 17.0
+Field goal percentage: 29.17%
+Assists: 3.0
+Steals: 12.0
+
+Jack
+Made shots: 1.0
+Missed shots: 0.0
+Field goal percentage: 100.0%
+Assists: 0.0
+Blocks: 0.0
+Offensive Rebounds: 1.0
+Defensive Rebounds: 23.0
+
+Bryan
+Made shots: 11.0
+Missed shots: 13.0
+Field goal percentage: 45.83%
+Assists: 4.0
+Steals: 11.0
+
+Alex
+Made shots: 10.0
+Missed shots: 11.0
+Field goal percentage: 47.62%
+Assists: 4.0
+Steals: 6.0
+
+Howard
+Made shots: 0.0
+Missed shots: 0.0
+Field goal percentage: 0.0%
+Assists: 0.0
+Blocks: 0.0
+Offensive Rebounds: 1.0
+Defensive Rebounds: 30.0
+
+Team Two won
+Final score
+Team One: 19 - Team Two: 21
+
+Drawing the starting team
+Team One starts the game
+
+Action number 1
+
+Team One in action
+Jack has ball
+Jack shoots
+Jack made shot
+Change of possesion - shot was made
+
+Action number 2
+
+Team Two in action
+Bryan has ball
+Bryan dribbles
+Bryan passed the ball to Alex
+Alex shoots
+Alex missed shot
+Howard offensive rebound
+Howard shoots
+Howard missed shot
+Change of possesion - opponents got rebound
+
+Action number 3
+
+Team One in action
+Tom has ball
+Tom shoots
+Tom made shot
+Change of possesion - shot was made
+
+Action number 4
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex passed the ball to Bryan
+Bryan passed the ball to Alex
+Alex passed the ball to Bryan
+Bryan shoots
+Bryan missed shot
+Change of possesion - opponents got rebound
+
+Action number 5
+
+Team One in action
+John has ball
+John passed the ball to Tom
+Tom passed the ball to John
+John dribbles
+John shoots
+John missed shot
+Change of possesion - opponents got rebound
+
+Action number 6
+
+Team Two in action
+Bryan has ball
+Bryan shoots
+Bryan missed shot
+Howard offensive rebound
+Howard shoots
+Jack blocked the shot
+Change of possesion - shot was blocked
+
+Action number 7
+
+Team One in action
+Tom has ball
+Tom shoots
+Tom missed shot
+Change of possesion - opponents got rebound
+
+Action number 8
+
+Team Two in action
+Alex has ball
+Alex shoots
+Alex missed shot
+Change of possesion - opponents got rebound
+
+Action number 9
+
+Team One in action
+John has ball
+John passed the ball to Tom
+Tom shoots
+Tom missed shot
+Change of possesion - opponents got rebound
+
+Action number 10
+
+Team Two in action
+Alex has ball
+Alex passed the ball to Bryan
+Bryan dribbles
+John steal
+Change of possesion - opponent stole the ball
+
+Action number 11
+
+Team One in action
+John has ball
+John passed the ball to Tom
+Tom passed the ball to John
+John passed the ball to Tom
+Tom shoots
+Tom made shot
+Assist from player John
+Change of possesion - shot was made
+
+Action number 12
+
+Team Two in action
+Bryan has ball
+Bryan dribbles
+Bryan passed the ball to Alex
+Alex dribbles
+Alex passed the ball to Bryan
+Bryan dribbles
+John steal
+Change of possesion - opponent stole the ball
+
+Action number 13
+
+Team One in action
+John has ball
+John passed the ball to Tom
+Tom dribbles
+Alex steal
+Change of possesion - opponent stole the ball
+
+Action number 14
+
+Team Two in action
+Alex has ball
+Alex passed the ball to Bryan
+Bryan dribbles
+John steal
+Change of possesion - opponent stole the ball
+
+Action number 15
+
+Team One in action
+John has ball
+John shoots
+John made shot
+Change of possesion - shot was made
+
+Action number 16
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex passed the ball to Bryan
+Bryan shoots
+Bryan missed shot
+Change of possesion - opponents got rebound
+
+Action number 17
+
+Team One in action
+John has ball
+John shoots
+John made shot
+Change of possesion - shot was made
+
+Action number 18
+
+Team Two in action
+Bryan has ball
+Bryan dribbles
+John steal
+Change of possesion - opponent stole the ball
+
+Action number 19
+
+Team One in action
+Tom has ball
+Tom passed the ball to John
+John passed the ball to Tom
+Tom dribbles
+Alex steal
+Change of possesion - opponent stole the ball
+
+Action number 20
+
+Team Two in action
+Alex has ball
+Alex passed the ball to Bryan
+Bryan passed the ball to Alex
+Alex dribbles
+Alex shoots
+Alex missed shot
+Change of possesion - opponents got rebound
+
+Action number 21
+
+Team One in action
+Tom has ball
+Tom dribbles
+Tom passed the ball to John
+John shoots
+John missed shot
+Change of possesion - opponents got rebound
+
+Action number 22
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex shoots
+Alex missed shot
+Change of possesion - opponents got rebound
+
+Action number 23
+
+Team One in action
+John has ball
+John passed the ball to Tom
+Tom shoots
+Tom missed shot
+Change of possesion - opponents got rebound
+
+Action number 24
+
+Team Two in action
+Alex has ball
+Alex dribbles
+Tom steal
+Change of possesion - opponent stole the ball
+
+Action number 25
+
+Team One in action
+John has ball
+John passed the ball to Tom
+Tom passed the ball to John
+John dribbles
+Bryan steal
+Change of possesion - opponent stole the ball
+
+Action number 26
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex dribbles
+Alex passed the ball to Bryan
+Bryan shoots
+Bryan missed shot
+Change of possesion - opponents got rebound
+
+Action number 27
+
+Team One in action
+Tom has ball
+Tom passed the ball to John
+John dribbles
+John shoots
+John missed shot
+Change of possesion - opponents got rebound
+
+Action number 28
+
+Team Two in action
+Alex has ball
+Alex shoots
+Alex missed shot
+Change of possesion - opponents got rebound
+
+Action number 29
+
+Team One in action
+Tom has ball
+Tom passed the ball to John
+John passed the ball to Tom
+Tom dribbles
+Tom passed the ball to John
+John dribbles
+John dribbles
+John shoots
+John missed shot
+Jack offensive rebound
+Jack shoots
+Jack made shot
+Change of possesion - shot was made
+
+Action number 30
+
+Team Two in action
+Alex has ball
+Alex dribbles
+Tom steal
+Change of possesion - opponent stole the ball
+
+Action number 31
+
+Team One in action
+John has ball
+John dribbles
+Bryan steal
+Change of possesion - opponent stole the ball
+
+Action number 32
+
+Team Two in action
+Bryan has ball
+Bryan shoots
+Bryan made shot
+Change of possesion - shot was made
+
+Action number 33
+
+Team One in action
+Tom has ball
+Tom dribbles
+Alex steal
+Change of possesion - opponent stole the ball
+
+Action number 34
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex passed the ball to Bryan
+Bryan passed the ball to Alex
+Alex passed the ball to Bryan
+Bryan shoots
+Bryan missed shot
+Change of possesion - opponents got rebound
+
+Action number 35
+
+Team One in action
+John has ball
+John shoots
+John made shot
+Change of possesion - shot was made
+
+Action number 36
+
+Team Two in action
+Alex has ball
+Alex dribbles
+Tom steal
+Change of possesion - opponent stole the ball
+
+Action number 37
+
+Team One in action
+John has ball
+John passed the ball to Tom
+Tom dribbles
+Tom passed the ball to John
+John passed the ball to Tom
+Tom passed the ball to John
+John passed the ball to Tom
+Tom shoots
+Tom missed shot
+Change of possesion - opponents got rebound
+
+Action number 38
+
+Team Two in action
+Alex has ball
+Alex dribbles
+Tom steal
+Change of possesion - opponent stole the ball
+
+Action number 39
+
+Team One in action
+John has ball
+John passed the ball to Tom
+Tom dribbles
+Tom passed the ball to John
+John passed the ball to Tom
+Tom dribbles
+Tom dribbles
+Alex steal
+Change of possesion - opponent stole the ball
+
+Action number 40
+
+Team Two in action
+Bryan has ball
+Bryan shoots
+Bryan missed shot
+Howard offensive rebound
+Howard passed the ball to Bryan
+Bryan shoots
+Bryan made shot
+Assist from player Howard
+Change of possesion - shot was made
+
+Action number 41
+
+Team One in action
+John has ball
+John shoots
+John made shot
+Change of possesion - shot was made
+
+Action number 42
+
+Team Two in action
+Bryan has ball
+Bryan dribbles
+John steal
+Change of possesion - opponent stole the ball
+
+Action number 43
+
+Team One in action
+John has ball
+John passed the ball to Tom
+Tom passed the ball to John
+John dribbles
+Bryan steal
+Change of possesion - opponent stole the ball
+
+Action number 44
+
+Team Two in action
+Alex has ball
+Alex shoots
+Alex made shot
+Change of possesion - shot was made
+
+Action number 45
+
+Team One in action
+John has ball
+John dribbles
+Bryan steal
+Change of possesion - opponent stole the ball
+
+Action number 46
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex passed the ball to Bryan
+Bryan shoots
+Bryan missed shot
+Change of possesion - opponents got rebound
+
+Action number 47
+
+Team One in action
+Tom has ball
+Tom shoots
+Tom made shot
+Change of possesion - shot was made
+
+Action number 48
+
+Team Two in action
+Alex has ball
+Alex passed the ball to Bryan
+Bryan shoots
+Bryan missed shot
+Change of possesion - opponents got rebound
+
+Action number 49
+
+Team One in action
+John has ball
+John dribbles
+John passed the ball to Tom
+Tom passed the ball to John
+John shoots
+John made shot
+Assist from player Tom
+Change of possesion - shot was made
+
+Action number 50
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex dribbles
+Alex dribbles
+Alex passed the ball to Bryan
+Bryan passed the ball to Alex
+Alex shoots
+Alex missed shot
+Change of possesion - opponents got rebound
+
+Action number 51
+
+Team One in action
+John has ball
+John shoots
+John missed shot
+Change of possesion - opponents got rebound
+
+Action number 52
+
+Team Two in action
+Bryan has ball
+Bryan dribbles
+Bryan passed the ball to Alex
+Alex shoots
+Alex missed shot
+Howard offensive rebound
+Howard dribbles
+Howard passed the ball to Bryan
+Bryan dribbles
+Bryan passed the ball to Alex
+Alex shoots
+Alex made shot
+Assist from player Bryan
+Change of possesion - shot was made
+
+Action number 53
+
+Team One in action
+John has ball
+John passed the ball to Tom
+Tom dribbles
+Alex steal
+Change of possesion - opponent stole the ball
+
+Action number 54
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex passed the ball to Bryan
+Bryan dribbles
+Bryan passed the ball to Alex
+Alex passed the ball to Bryan
+Bryan dribbles
+Bryan shoots
+Bryan made shot
+Change of possesion - shot was made
+
+Action number 55
+
+Team One in action
+Tom has ball
+Tom dribbles
+Alex steal
+Change of possesion - opponent stole the ball
+
+Action number 56
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex dribbles
+Alex shoots
+Alex missed shot
+Howard offensive rebound
+Howard shoots
+Jack blocked the shot
+Change of possesion - shot was blocked
+
+Action number 57
+
+Team One in action
+John has ball
+John shoots
+John missed shot
+Change of possesion - opponents got rebound
+
+Action number 58
+
+Team Two in action
+Bryan has ball
+Bryan dribbles
+Bryan passed the ball to Alex
+Alex shoots
+Alex made shot
+Assist from player Bryan
+Change of possesion - shot was made
+
+Action number 59
+
+Team One in action
+John has ball
+John dribbles
+Bryan steal
+Change of possesion - opponent stole the ball
+
+Action number 60
+
+Team Two in action
+Alex has ball
+Alex dribbles
+Tom steal
+Change of possesion - opponent stole the ball
+
+Action number 61
+
+Team One in action
+John has ball
+John shoots
+John missed shot
+Change of possesion - opponents got rebound
+
+Action number 62
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex dribbles
+Alex passed the ball to Bryan
+Bryan passed the ball to Alex
+Alex shoots
+Alex missed shot
+Change of possesion - opponents got rebound
+
+Action number 63
+
+Team One in action
+Tom has ball
+Tom dribbles
+Alex steal
+Change of possesion - opponent stole the ball
+
+Action number 64
+
+Team Two in action
+Alex has ball
+Alex dribbles
+Tom steal
+Change of possesion - opponent stole the ball
+
+Action number 65
+
+Team One in action
+Tom has ball
+Tom dribbles
+Alex steal
+Change of possesion - opponent stole the ball
+
+Action number 66
+
+Team Two in action
+Bryan has ball
+Bryan shoots
+Bryan made shot
+Change of possesion - shot was made
+
+Action number 67
+
+Team One in action
+Tom has ball
+Tom dribbles
+Tom dribbles
+Alex steal
+Change of possesion - opponent stole the ball
+
+Action number 68
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex passed the ball to Bryan
+Bryan dribbles
+John steal
+Change of possesion - opponent stole the ball
+
+Action number 69
+
+Team One in action
+Tom has ball
+Tom shoots
+Tom missed shot
+Change of possesion - opponents got rebound
+
+Action number 70
+
+Team Two in action
+Bryan has ball
+Bryan shoots
+Bryan made shot
+Change of possesion - shot was made
+
+Action number 71
+
+Team One in action
+John has ball
+John shoots
+John made shot
+Change of possesion - shot was made
+
+Action number 72
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex passed the ball to Bryan
+Bryan dribbles
+Bryan shoots
+Bryan missed shot
+Change of possesion - opponents got rebound
+
+Action number 73
+
+Team One in action
+Tom has ball
+Tom shoots
+Tom missed shot
+Change of possesion - opponents got rebound
+
+Action number 74
+
+Team Two in action
+Alex has ball
+Alex shoots
+Alex missed shot
+Change of possesion - opponents got rebound
+
+Action number 75
+
+Team One in action
+Tom has ball
+Tom dribbles
+Alex steal
+Change of possesion - opponent stole the ball
+
+Action number 76
+
+Team Two in action
+Alex has ball
+Alex dribbles
+Tom steal
+Change of possesion - opponent stole the ball
+
+Action number 77
+
+Team One in action
+Tom has ball
+Tom dribbles
+Tom shoots
+Tom missed shot
+Change of possesion - opponents got rebound
+
+Action number 78
+
+Team Two in action
+Alex has ball
+Alex shoots
+Alex missed shot
+Change of possesion - opponents got rebound
+
+Action number 79
+
+Team One in action
+John has ball
+John dribbles
+John dribbles
+Bryan steal
+Change of possesion - opponent stole the ball
+
+Action number 80
+
+Team Two in action
+Alex has ball
+Alex shoots
+Alex missed shot
+Change of possesion - opponents got rebound
+
+Action number 81
+
+Team One in action
+John has ball
+John dribbles
+Bryan steal
+Change of possesion - opponent stole the ball
+
+Action number 82
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex shoots
+Alex missed shot
+Change of possesion - opponents got rebound
+
+Action number 83
+
+Team One in action
+Tom has ball
+Tom dribbles
+Tom shoots
+Tom made shot
+Change of possesion - shot was made
+
+Action number 84
+
+Team Two in action
+Bryan has ball
+Bryan shoots
+Bryan missed shot
+Change of possesion - opponents got rebound
+
+Action number 85
+
+Team One in action
+Tom has ball
+Tom passed the ball to John
+John shoots
+John made shot
+Assist from player Tom
+Change of possesion - shot was made
+
+Action number 86
+
+Team Two in action
+Alex has ball
+Alex dribbles
+Tom steal
+Change of possesion - opponent stole the ball
+
+Action number 87
+
+Team One in action
+Tom has ball
+Tom dribbles
+Alex steal
+Change of possesion - opponent stole the ball
+
+Action number 88
+
+Team Two in action
+Alex has ball
+Alex dribbles
+Alex passed the ball to Bryan
+Bryan shoots
+Bryan missed shot
+Change of possesion - opponents got rebound
+
+Action number 89
+
+Team One in action
+John has ball
+John shoots
+John made shot
+Change of possesion - shot was made
+
+Action number 90
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex dribbles
+Alex shoots
+Alex made shot
+Change of possesion - shot was made
+
+Action number 91
+
+Team One in action
+Tom has ball
+Tom dribbles
+Alex steal
+Change of possesion - opponent stole the ball
+
+Action number 92
+
+Team Two in action
+Bryan has ball
+Bryan dribbles
+Bryan dribbles
+Bryan dribbles
+John steal
+Change of possesion - opponent stole the ball
+
+Action number 93
+
+Team One in action
+Tom has ball
+Tom passed the ball to John
+John passed the ball to Tom
+Tom passed the ball to John
+John shoots
+John missed shot
+Change of possesion - opponents got rebound
+
+Action number 94
+
+Team Two in action
+Bryan has ball
+Bryan dribbles
+John steal
+Change of possesion - opponent stole the ball
+
+Action number 95
+
+Team One in action
+John has ball
+John dribbles
+John dribbles
+Bryan steal
+Change of possesion - opponent stole the ball
+
+Action number 96
+
+Team Two in action
+Bryan has ball
+Bryan dribbles
+John steal
+Change of possesion - opponent stole the ball
+
+Action number 97
+
+Team One in action
+Tom has ball
+Tom dribbles
+Alex steal
+Change of possesion - opponent stole the ball
+
+Action number 98
+
+Team Two in action
+Alex has ball
+Alex passed the ball to Bryan
+Bryan passed the ball to Alex
+Alex shoots
+Alex missed shot
+Change of possesion - opponents got rebound
+
+Action number 99
+
+Team One in action
+John has ball
+John passed the ball to Tom
+Tom passed the ball to John
+John dribbles
+John dribbles
+John shoots
+John missed shot
+Change of possesion - opponents got rebound
+
+Action number 100
+
+Team Two in action
+Alex has ball
+Alex passed the ball to Bryan
+Bryan passed the ball to Alex
+Alex shoots
+Alex missed shot
+Change of possesion - opponents got rebound
+
+Action number 101
+
+Team One in action
+Tom has ball
+Tom dribbles
+Tom dribbles
+Alex steal
+Change of possesion - opponent stole the ball
+
+Action number 102
+
+Team Two in action
+Alex has ball
+Alex passed the ball to Bryan
+Bryan passed the ball to Alex
+Alex shoots
+Alex made shot
+Assist from player Bryan
+Change of possesion - shot was made
+
+Action number 103
+
+Team One in action
+Tom has ball
+Tom dribbles
+Alex steal
+Change of possesion - opponent stole the ball
+
+Action number 104
+
+Team Two in action
+Bryan has ball
+Bryan shoots
+Bryan made shot
+Change of possesion - shot was made
+
+Action number 105
+
+Team One in action
+Tom has ball
+Tom shoots
+Tom made shot
+Change of possesion - shot was made
+
+Action number 106
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex shoots
+Alex made shot
+Assist from player Bryan
+Change of possesion - shot was made
+
+Action number 107
+
+Team One in action
+Tom has ball
+Tom shoots
+Tom missed shot
+Change of possesion - opponents got rebound
+
+Action number 108
+
+Team Two in action
+Alex has ball
+Alex dribbles
+Alex dribbles
+Tom steal
+Change of possesion - opponent stole the ball
+
+Action number 109
+
+Team One in action
+John has ball
+John dribbles
+John passed the ball to Tom
+Tom shoots
+Tom made shot
+Assist from player John
+Change of possesion - shot was made
+
+Action number 110
+
+Team Two in action
+Alex has ball
+Alex dribbles
+Tom steal
+Change of possesion - opponent stole the ball
+
+Action number 111
+
+Team One in action
+Tom has ball
+Tom dribbles
+Alex steal
+Change of possesion - opponent stole the ball
+
+Action number 112
+
+Team Two in action
+Alex has ball
+Alex dribbles
+Tom steal
+Change of possesion - opponent stole the ball
+
+Action number 113
+
+Team One in action
+Tom has ball
+Tom dribbles
+Alex steal
+Change of possesion - opponent stole the ball
+
+Action number 114
+
+Team Two in action
+Bryan has ball
+Bryan shoots
+Bryan missed shot
+Change of possesion - opponents got rebound
+
+Action number 115
+
+Team One in action
+Tom has ball
+Tom shoots
+Tom missed shot
+Jack offensive rebound
+Jack dribbles
+Jack passed the ball to John
+John shoots
+John made shot
+Assist from player Jack
+Change of possesion - shot was made
+
+Action number 116
+
+Team Two in action
+Bryan has ball
+Bryan shoots
+Bryan made shot
+Change of possesion - shot was made
+
+Action number 117
+
+Team One in action
+Tom has ball
+Tom shoots
+Tom missed shot
+Change of possesion - opponents got rebound
+
+Action number 118
+
+Team Two in action
+Alex has ball
+Alex shoots
+Alex missed shot
+Change of possesion - opponents got rebound
+
+Action number 119
+
+Team One in action
+John has ball
+John dribbles
+Bryan steal
+Change of possesion - opponent stole the ball
+
+Action number 120
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex shoots
+Alex missed shot
+Change of possesion - opponents got rebound
+
+Action number 121
+
+Team One in action
+John has ball
+John dribbles
+Bryan steal
+Change of possesion - opponent stole the ball
+
+Action number 122
+
+Team Two in action
+Alex has ball
+Alex dribbles
+Tom steal
+Change of possesion - opponent stole the ball
+
+Action number 123
+
+Team One in action
+Tom has ball
+Tom dribbles
+Alex steal
+Change of possesion - opponent stole the ball
+
+Action number 124
+
+Team Two in action
+Alex has ball
+Alex shoots
+Alex missed shot
+Change of possesion - opponents got rebound
+
+Action number 125
+
+Team One in action
+Tom has ball
+Tom dribbles
+Tom shoots
+Tom missed shot
+Change of possesion - opponents got rebound
+
+Action number 126
+
+Team Two in action
+Bryan has ball
+Bryan dribbles
+Bryan shoots
+Bryan made shot
+Change of possesion - shot was made
+
+Action number 127
+
+Team One in action
+Tom has ball
+Tom dribbles
+Tom passed the ball to John
+John passed the ball to Tom
+Tom passed the ball to John
+John shoots
+John missed shot
+Change of possesion - opponents got rebound
+
+Action number 128
+
+Team Two in action
+Alex has ball
+Alex dribbles
+Alex shoots
+Alex made shot
+Change of possesion - shot was made
+
+Action number 129
+
+Team One in action
+Tom has ball
+Tom dribbles
+Tom dribbles
+Alex steal
+Change of possesion - opponent stole the ball
+
+Action number 130
+
+Team Two in action
+Bryan has ball
+Bryan shoots
+Bryan made shot
+Change of possesion - shot was made
+
+Action number 131
+
+Team One in action
+John has ball
+John shoots
+John made shot
+Change of possesion - shot was made
+
+Action number 132
+
+Team Two in action
+Alex has ball
+Alex passed the ball to Bryan
+Bryan dribbles
+John steal
+Change of possesion - opponent stole the ball
+
+Action number 133
+
+Team One in action
+John has ball
+John dribbles
+John passed the ball to Tom
+Tom dribbles
+Alex steal
+Change of possesion - opponent stole the ball
+
+Action number 134
+
+Team Two in action
+Bryan has ball
+Bryan dribbles
+John steal
+Change of possesion - opponent stole the ball
+
+Action number 135
+
+Team One in action
+John has ball
+John passed the ball to Tom
+Tom passed the ball to John
+John passed the ball to Tom
+Tom shoots
+Tom missed shot
+Change of possesion - opponents got rebound
+
+Action number 136
+
+Team Two in action
+Bryan has ball
+Bryan dribbles
+Bryan dribbles
+John steal
+Change of possesion - opponent stole the ball
+
+Action number 137
+
+Team One in action
+John has ball
+John dribbles
+Bryan steal
+Change of possesion - opponent stole the ball
+
+Action number 138
+
+Team Two in action
+Alex has ball
+Alex passed the ball to Bryan
+Bryan passed the ball to Alex
+Alex shoots
+Alex made shot
+Assist from player Bryan
+Change of possesion - shot was made
+
+Action number 139
+
+Team One in action
+Tom has ball
+Tom dribbles
+Alex steal
+Change of possesion - opponent stole the ball
+
+Action number 140
+
+Team Two in action
+Alex has ball
+Alex passed the ball to Bryan
+Bryan passed the ball to Alex
+Alex dribbles
+Tom steal
+Change of possesion - opponent stole the ball
+
+Action number 141
+
+Team One in action
+John has ball
+John passed the ball to Tom
+Tom passed the ball to John
+John shoots
+John missed shot
+Change of possesion - opponents got rebound
+
+Action number 142
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex passed the ball to Bryan
+Bryan shoots
+Bryan made shot
+Assist from player Alex
+Change of possesion - shot was made
+
+Action number 143
+
+Team One in action
+Tom has ball
+Tom dribbles
+Alex steal
+Change of possesion - opponent stole the ball
+
+Action number 144
+
+Team Two in action
+Alex has ball
+Alex passed the ball to Bryan
+Bryan passed the ball to Alex
+Alex passed the ball to Bryan
+Bryan shoots
+Bryan made shot
+Assist from player Alex
+Change of possesion - shot was made
+
+Action number 145
+
+Team One in action
+Tom has ball
+Tom passed the ball to John
+John dribbles
+Bryan steal
+Change of possesion - opponent stole the ball
+
+Action number 146
+
+Team Two in action
+Alex has ball
+Alex passed the ball to Bryan
+Bryan shoots
+Bryan missed shot
+Howard offensive rebound
+Howard passed the ball to Bryan
+Bryan dribbles
+Bryan passed the ball to Alex
+Alex passed the ball to Bryan
+Bryan shoots
+Bryan made shot
+Assist from player Alex
+Change of possesion - shot was made
+
+Action number 147
+
+Team One in action
+Tom has ball
+Tom shoots
+Tom missed shot
+Change of possesion - opponents got rebound
+
+Action number 148
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex shoots
+Alex missed shot
+Change of possesion - opponents got rebound
+
+Action number 149
+
+Team One in action
+John has ball
+John passed the ball to Tom
+Tom passed the ball to John
+John passed the ball to Tom
+Tom dribbles
+Alex steal
+Change of possesion - opponent stole the ball
+
+Action number 150
+
+Team Two in action
+Alex has ball
+Alex dribbles
+Alex shoots
+Alex made shot
+Change of possesion - shot was made
+
+End of the game
+Stats from the game: 
+
+John
+Made shots: 10.0
+Missed shots: 11.0
+Field goal percentage: 47.62%
+Assists: 2.0
+Steals: 12.0
+
+Tom
+Made shots: 6.0
+Missed shots: 13.0
+Field goal percentage: 31.58%
+Assists: 2.0
+Steals: 13.0
+
+Jack
+Made shots: 2.0
+Missed shots: 0.0
+Field goal percentage: 100.0%
+Assists: 1.0
+Blocks: 2.0
+Offensive Rebounds: 2.0
+Defensive Rebounds: 27.0
+
+Bryan
+Made shots: 12.0
+Missed shots: 13.0
+Field goal percentage: 48.0%
+Assists: 5.0
+Steals: 12.0
+
+Alex
+Made shots: 9.0
+Missed shots: 19.0
+Field goal percentage: 32.14%
+Assists: 3.0
+Steals: 23.0
+
+Howard
+Made shots: 0.0
+Missed shots: 3.0
+Field goal percentage: 0.0%
+Assists: 1.0
+Blocks: 0.0
+Offensive Rebounds: 6.0
+Defensive Rebounds: 22.0
+
+Team Two won
+Final score
+Team One: 18 - Team Two: 21
+
+Drawing the starting team
+Team Two starts the game
+
+Action number 1
+
+Team Two in action
+Alex has ball
+Alex shoots
+Alex missed shot
+Change of possesion - opponents got rebound
+
+Action number 2
+
+Team One in action
+John has ball
+John shoots
+John made shot
+Change of possesion - shot was made
+
+Action number 3
+
+Team Two in action
+Alex has ball
+Alex passed the ball to Bryan
+Bryan passed the ball to Alex
+Alex passed the ball to Bryan
+Bryan shoots
+Bryan missed shot
+Howard offensive rebound
+Howard shoots
+Howard missed shot
+Change of possesion - opponents got rebound
+
+Action number 4
+
+Team One in action
+John has ball
+John shoots
+John made shot
+Change of possesion - shot was made
+
+Action number 5
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex dribbles
+Alex dribbles
+Alex passed the ball to Bryan
+Bryan shoots
+Bryan missed shot
+Change of possesion - opponents got rebound
+
+Action number 6
+
+Team One in action
+John has ball
+John shoots
+John made shot
+Change of possesion - shot was made
+
+Action number 7
+
+Team Two in action
+Bryan has ball
+Bryan shoots
+Bryan missed shot
+Change of possesion - opponents got rebound
+
+Action number 8
+
+Team One in action
+Tom has ball
+Tom dribbles
+Tom passed the ball to John
+John dribbles
+John shoots
+John made shot
+Change of possesion - shot was made
+
+Action number 9
+
+Team Two in action
+Alex has ball
+Alex passed the ball to Bryan
+Bryan dribbles
+Bryan shoots
+Bryan missed shot
+Change of possesion - opponents got rebound
+
+Action number 10
+
+Team One in action
+Tom has ball
+Tom passed the ball to John
+John shoots
+John missed shot
+Change of possesion - opponents got rebound
+
+Action number 11
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex shoots
+Alex missed shot
+Change of possesion - opponents got rebound
+
+Action number 12
+
+Team One in action
+John has ball
+John shoots
+John missed shot
+Change of possesion - opponents got rebound
+
+Action number 13
+
+Team Two in action
+Alex has ball
+Alex shoots
+Alex missed shot
+Change of possesion - opponents got rebound
+
+Action number 14
+
+Team One in action
+John has ball
+John passed the ball to Tom
+Tom passed the ball to John
+John shoots
+John missed shot
+Change of possesion - opponents got rebound
+
+Action number 15
+
+Team Two in action
+Alex has ball
+Alex shoots
+Alex made shot
+Change of possesion - shot was made
+
+Action number 16
+
+Team One in action
+Tom has ball
+Tom dribbles
+Tom dribbles
+Tom shoots
+Tom missed shot
+Change of possesion - opponents got rebound
+
+Action number 17
+
+Team Two in action
+Bryan has ball
+Bryan dribbles
+Bryan dribbles
+Bryan shoots
+Bryan made shot
+Change of possesion - shot was made
+
+Action number 18
+
+Team One in action
+John has ball
+John passed the ball to Tom
+Tom passed the ball to John
+John dribbles
+John shoots
+John made shot
+Change of possesion - shot was made
+
+Action number 19
+
+Team Two in action
+Alex has ball
+Alex shoots
+Alex missed shot
+Change of possesion - opponents got rebound
+
+Action number 20
+
+Team One in action
+Tom has ball
+Tom dribbles
+Tom dribbles
+Tom dribbles
+Alex steal
+Change of possesion - opponent stole the ball
+
+Action number 21
+
+Team Two in action
+Bryan has ball
+Bryan shoots
+Bryan made shot
+Change of possesion - shot was made
+
+Action number 22
+
+Team One in action
+Tom has ball
+Tom dribbles
+Alex steal
+Change of possesion - opponent stole the ball
+
+Action number 23
+
+Team Two in action
+Bryan has ball
+Bryan dribbles
+Bryan dribbles
+Bryan passed the ball to Alex
+Alex dribbles
+Tom steal
+Change of possesion - opponent stole the ball
+
+Action number 24
+
+Team One in action
+Tom has ball
+Tom dribbles
+Alex steal
+Change of possesion - opponent stole the ball
+
+Action number 25
+
+Team Two in action
+Bryan has ball
+Bryan dribbles
+John steal
+Change of possesion - opponent stole the ball
+
+Action number 26
+
+Team One in action
+John has ball
+John dribbles
+Bryan steal
+Change of possesion - opponent stole the ball
+
+Action number 27
+
+Team Two in action
+Bryan has ball
+Bryan shoots
+Bryan made shot
+Change of possesion - shot was made
+
+Action number 28
+
+Team One in action
+John has ball
+John dribbles
+Bryan steal
+Change of possesion - opponent stole the ball
+
+Action number 29
+
+Team Two in action
+Bryan has ball
+Bryan shoots
+Bryan made shot
+Change of possesion - shot was made
+
+Action number 30
+
+Team One in action
+John has ball
+John dribbles
+John dribbles
+Bryan steal
+Change of possesion - opponent stole the ball
+
+Action number 31
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex shoots
+Alex made shot
+Assist from player Bryan
+Change of possesion - shot was made
+
+Action number 32
+
+Team One in action
+John has ball
+John passed the ball to Tom
+Tom dribbles
+Tom dribbles
+Tom dribbles
+Tom passed the ball to John
+John dribbles
+John passed the ball to Tom
+Tom shoots
+Tom made shot
+Assist from player John
+Change of possesion - shot was made
+
+Action number 33
+
+Team Two in action
+Alex has ball
+Alex shoots
+Alex made shot
+Change of possesion - shot was made
+
+Action number 34
+
+Team One in action
+Tom has ball
+Tom dribbles
+Tom passed the ball to John
+John dribbles
+John shoots
+John made shot
+Change of possesion - shot was made
+
+Action number 35
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex shoots
+Alex missed shot
+Howard offensive rebound
+Howard dribbles
+Howard shoots
+Jack blocked the shot
+Change of possesion - shot was blocked
+
+Action number 36
+
+Team One in action
+Tom has ball
+Tom passed the ball to John
+John dribbles
+John passed the ball to Tom
+Tom shoots
+Tom made shot
+Assist from player John
+Change of possesion - shot was made
+
+Action number 37
+
+Team Two in action
+Bryan has ball
+Bryan shoots
+Bryan missed shot
+Change of possesion - opponents got rebound
+
+Action number 38
+
+Team One in action
+John has ball
+John passed the ball to Tom
+Tom shoots
+Tom made shot
+Assist from player John
+Change of possesion - shot was made
+
+Action number 39
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex shoots
+Alex made shot
+Assist from player Bryan
+Change of possesion - shot was made
+
+Action number 40
+
+Team One in action
+Tom has ball
+Tom passed the ball to John
+John passed the ball to Tom
+Tom shoots
+Tom made shot
+Assist from player John
+Change of possesion - shot was made
+
+Action number 41
+
+Team Two in action
+Alex has ball
+Alex passed the ball to Bryan
+Bryan passed the ball to Alex
+Alex passed the ball to Bryan
+Bryan passed the ball to Alex
+Alex passed the ball to Bryan
+Bryan passed the ball to Alex
+Alex shoots
+Alex made shot
+Assist from player Bryan
+Change of possesion - shot was made
+
+Action number 42
+
+Team One in action
+John has ball
+John shoots
+John missed shot
+Change of possesion - opponents got rebound
+
+Action number 43
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex dribbles
+Tom steal
+Change of possesion - opponent stole the ball
+
+Action number 44
+
+Team One in action
+John has ball
+John passed the ball to Tom
+Tom dribbles
+Tom dribbles
+Tom passed the ball to John
+John dribbles
+Bryan steal
+Change of possesion - opponent stole the ball
+
+Action number 45
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex dribbles
+Tom steal
+Change of possesion - opponent stole the ball
+
+Action number 46
+
+Team One in action
+Tom has ball
+Tom passed the ball to John
+John passed the ball to Tom
+Tom shoots
+Tom made shot
+Assist from player John
+Change of possesion - shot was made
+
+Action number 47
+
+Team Two in action
+Alex has ball
+Alex dribbles
+Alex dribbles
+Tom steal
+Change of possesion - opponent stole the ball
+
+Action number 48
+
+Team One in action
+Tom has ball
+Tom dribbles
+Alex steal
+Change of possesion - opponent stole the ball
+
+Action number 49
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex passed the ball to Bryan
+Bryan dribbles
+John steal
+Change of possesion - opponent stole the ball
+
+Action number 50
+
+Team One in action
+Tom has ball
+Tom dribbles
+Tom dribbles
+Alex steal
+Change of possesion - opponent stole the ball
+
+Action number 51
+
+Team Two in action
+Alex has ball
+Alex shoots
+Alex missed shot
+Change of possesion - opponents got rebound
+
+Action number 52
+
+Team One in action
+Tom has ball
+Tom passed the ball to John
+John passed the ball to Tom
+Tom passed the ball to John
+John passed the ball to Tom
+Tom passed the ball to John
+John dribbles
+John dribbles
+John passed the ball to Tom
+Tom shoots
+Tom made shot
+Assist from player John
+Change of possesion - shot was made
+
+Action number 53
+
+Team Two in action
+Alex has ball
+Alex shoots
+Alex made shot
+Change of possesion - shot was made
+
+Action number 54
+
+Team One in action
+John has ball
+John dribbles
+Bryan steal
+Change of possesion - opponent stole the ball
+
+Action number 55
+
+Team Two in action
+Bryan has ball
+Bryan dribbles
+Bryan shoots
+Bryan made shot
+Change of possesion - shot was made
+
+Action number 56
+
+Team One in action
+Tom has ball
+Tom shoots
+Tom missed shot
+Change of possesion - opponents got rebound
+
+Action number 57
+
+Team Two in action
+Alex has ball
+Alex shoots
+Alex made shot
+Change of possesion - shot was made
+
+Action number 58
+
+Team One in action
+Tom has ball
+Tom passed the ball to John
+John passed the ball to Tom
+Tom dribbles
+Tom passed the ball to John
+John passed the ball to Tom
+Tom dribbles
+Tom passed the ball to John
+John passed the ball to Tom
+Tom shoots
+Tom made shot
+Assist from player John
+Change of possesion - shot was made
+
+Action number 59
+
+Team Two in action
+Alex has ball
+Alex dribbles
+Alex shoots
+Alex missed shot
+Change of possesion - opponents got rebound
+
+Action number 60
+
+Team One in action
+John has ball
+John passed the ball to Tom
+Tom passed the ball to John
+John passed the ball to Tom
+Tom passed the ball to John
+John passed the ball to Tom
+Tom passed the ball to John
+John shoots
+John missed shot
+Change of possesion - opponents got rebound
+
+Action number 61
+
+Team Two in action
+Bryan has ball
+Bryan shoots
+Bryan made shot
+Change of possesion - shot was made
+
+Action number 62
+
+Team One in action
+Tom has ball
+Tom dribbles
+Tom dribbles
+Tom passed the ball to John
+John dribbles
+John passed the ball to Tom
+Tom dribbles
+Alex steal
+Change of possesion - opponent stole the ball
+
+Action number 63
+
+Team Two in action
+Bryan has ball
+Bryan dribbles
+John steal
+Change of possesion - opponent stole the ball
+
+Action number 64
+
+Team One in action
+John has ball
+John passed the ball to Tom
+Tom dribbles
+Tom passed the ball to John
+John shoots
+John missed shot
+Change of possesion - opponents got rebound
+
+Action number 65
+
+Team Two in action
+Alex has ball
+Alex passed the ball to Bryan
+Bryan shoots
+Bryan made shot
+Assist from player Alex
+Change of possesion - shot was made
+
+Action number 66
+
+Team One in action
+Tom has ball
+Tom dribbles
+Tom passed the ball to John
+John passed the ball to Tom
+Tom dribbles
+Tom dribbles
+Tom passed the ball to John
+John shoots
+John missed shot
+Change of possesion - opponents got rebound
+
+Action number 67
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex passed the ball to Bryan
+Bryan shoots
+Bryan missed shot
+Change of possesion - opponents got rebound
+
+Action number 68
+
+Team One in action
+John has ball
+John shoots
+John missed shot
+Change of possesion - opponents got rebound
+
+Action number 69
+
+Team Two in action
+Alex has ball
+Alex shoots
+Alex missed shot
+Change of possesion - opponents got rebound
+
+Action number 70
+
+Team One in action
+John has ball
+John shoots
+John made shot
+Change of possesion - shot was made
+
+Action number 71
+
+Team Two in action
+Alex has ball
+Alex shoots
+Alex missed shot
+Change of possesion - opponents got rebound
+
+Action number 72
+
+Team One in action
+John has ball
+John passed the ball to Tom
+Tom shoots
+Tom missed shot
+Jack offensive rebound
+Jack passed the ball to John
+John dribbles
+John passed the ball to Tom
+Tom dribbles
+Alex steal
+Change of possesion - opponent stole the ball
+
+Action number 73
+
+Team Two in action
+Bryan has ball
+Bryan dribbles
+Bryan passed the ball to Alex
+Alex dribbles
+Alex passed the ball to Bryan
+Bryan dribbles
+John steal
+Change of possesion - opponent stole the ball
+
+Action number 74
+
+Team One in action
+John has ball
+John dribbles
+John shoots
+John missed shot
+Change of possesion - opponents got rebound
+
+Action number 75
+
+Team Two in action
+Alex has ball
+Alex passed the ball to Bryan
+Bryan shoots
+Bryan made shot
+Assist from player Alex
+Change of possesion - shot was made
+
+Action number 76
+
+Team One in action
+Tom has ball
+Tom shoots
+Tom missed shot
+Change of possesion - opponents got rebound
+
+Action number 77
+
+Team Two in action
+Bryan has ball
+Bryan shoots
+Bryan missed shot
+Change of possesion - opponents got rebound
+
+Action number 78
+
+Team One in action
+Tom has ball
+Tom passed the ball to John
+John passed the ball to Tom
+Tom shoots
+Tom made shot
+Assist from player John
+Change of possesion - shot was made
+
+Action number 79
+
+Team Two in action
+Bryan has ball
+Bryan passed the ball to Alex
+Alex shoots
+Alex made shot
+Assist from player Bryan
+Change of possesion - shot was made
+
+Action number 80
+
+Team One in action
+Tom has ball
+Tom dribbles
+Tom dribbles
+Tom shoots
+Tom missed shot
+Change of possesion - opponents got rebound
+
+Action number 81
+
+Team Two in action
+Alex has ball
+Alex passed the ball to Bryan
+Bryan passed the ball to Alex
+Alex passed the ball to Bryan
+Bryan passed the ball to Alex
+Alex shoots
+Alex made shot
+Assist from player Bryan
+Change of possesion - shot was made
+
+Action number 82
+
+Team One in action
+Tom has ball
+Tom dribbles
+Tom shoots
+Tom missed shot
+Change of possesion - opponents got rebound
+
+Action number 83
+
+Team Two in action
+Bryan has ball
+Bryan shoots
+Bryan missed shot
+Change of possesion - opponents got rebound
+
+Action number 84
+
+Team One in action
+Tom has ball
+Tom shoots
+Tom made shot
+Change of possesion - shot was made
+
+Action number 85
+
+Team Two in action
+Alex has ball
+Alex dribbles
+Alex dribbles
+Tom steal
+Change of possesion - opponent stole the ball
+
+Action number 86
+
+Team One in action
+John has ball
+John passed the ball to Tom
+Tom dribbles
+Tom passed the ball to John
+John shoots
+John made shot
+Assist from player Tom
+Change of possesion - shot was made
+
+Action number 87
+
+Team Two in action
+Alex has ball
+Alex dribbles
+Tom steal
+Change of possesion - opponent stole the ball
+
+Action number 88
+
+Team One in action
+Tom has ball
+Tom shoots
+Tom missed shot
+Change of possesion - opponents got rebound
+
+Action number 89
+
+Team Two in action
+Alex has ball
+Alex dribbles
+Tom steal
+Change of possesion - opponent stole the ball
+
+Action number 90
+
+Team One in action
+John has ball
+John shoots
+John made shot
+Change of possesion - shot was made
+
+Action number 91
+
+Team Two in action
+Bryan has ball
+Bryan shoots
+Bryan made shot
+Change of possesion - shot was made
+
+Action number 92
+
+Team One in action
+Tom has ball
+Tom passed the ball to John
+John dribbles
+Bryan steal
+Change of possesion - opponent stole the ball
+
+Action number 93
+
+Team Two in action
+Alex has ball
+Alex passed the ball to Bryan
+Bryan dribbles
+Bryan passed the ball to Alex
+Alex dribbles
+Tom steal
+Change of possesion - opponent stole the ball
+
+Action number 94
+
+Team One in action
+Tom has ball
+Tom shoots
+Tom missed shot
+Change of possesion - opponents got rebound
+
+Action number 95
+
+Team Two in action
+Bryan has ball
+Bryan shoots
+Bryan made shot
+Change of possesion - shot was made
+
+Action number 96
+
+Team One in action
+John has ball
+John dribbles
+John shoots
+John made shot
+Change of possesion - shot was made
+
+Action number 97
+
+Team Two in action
+Alex has ball
+Alex dribbles
+Tom steal
+Change of possesion - opponent stole the ball
+
+Action number 98
+
+Team One in action
+Tom has ball
+Tom dribbles
+Tom shoots
+Tom made shot
+Change of possesion - shot was made
+
+Action number 99
+
+Team Two in action
+Alex has ball
+Alex shoots
+Alex missed shot
+Change of possesion - opponents got rebound
+
+Action number 100
+
+Team One in action
+John has ball
+John passed the ball to Tom
+Tom dribbles
+Alex steal
+Change of possesion - opponent stole the ball
+
+Action number 101
+
+Team Two in action
+Bryan has ball
+Bryan dribbles
+Bryan dribbles
+Bryan shoots
+Bryan missed shot
+Howard offensive rebound
+Howard passed the ball to Bryan
+Bryan dribbles
+John steal
+Change of possesion - opponent stole the ball
+
+Action number 102
+
+Team One in action
+John has ball
+John passed the ball to Tom
+Tom dribbles
+Tom dribbles
+Tom dribbles
+Tom passed the ball to John
+John shoots
+John made shot
+Assist from player Tom
+Change of possesion - shot was made
+
+End of the game
+Stats from the game: 
+
+John
+Made shots: 11.0
+Missed shots: 9.0
+Field goal percentage: 55.0%
+Assists: 8.0
+Steals: 5.0
+
+Tom
+Made shots: 10.0
+Missed shots: 8.0
+Field goal percentage: 55.56%
+Assists: 2.0
+Steals: 9.0
+
+Jack
+Made shots: 0.0
+Missed shots: 0.0
+Field goal percentage: 0.0%
+Assists: 0.0
+Blocks: 1.0
+Offensive Rebounds: 1.0
+Defensive Rebounds: 17.0
+
+Bryan
+Made shots: 10.0
+Missed shots: 9.0
+Field goal percentage: 52.63%
+Assists: 5.0
+Steals: 6.0
+
+Alex
+Made shots: 9.0
+Missed shots: 10.0
+Field goal percentage: 47.37%
+Assists: 2.0
+Steals: 8.0
+
+Howard
+Made shots: 0.0
+Missed shots: 2.0
+Field goal percentage: 0.0%
+Assists: 0.0
+Blocks: 0.0
+Offensive Rebounds: 3.0
+Defensive Rebounds: 16.0
+
+Team One won
+Final score
+Team One: 21 - Team Two: 19
+
+Average stats: 
+
+John (Attack:0.5 Defence:0.5)
+Made shots: 10.67
+Missed shots: 11.33
+Field goal percentage: 48.48%
+Assists: 3.33
+Steals: 9.33
+
+Tom (Attack:0.5 Defence:0.5)
+Made shots: 7.67
+Missed shots: 12.67
+Field goal percentage: 37.7%
+Assists: 2.33
+Steals: 11.33
+
+Jack (Attack:0.7 Defence:0.2 Rebounding:0.1)
+Made shots: 1.0
+Missed shots: 0.0
+Field goal percentage: 100.0%
+Assists: 0.33
+Blocks: 1.0
+Offensive Rebounds: 1.33
+Defensive Rebounds: 22.33
+
+Bryan (Attack:0.5 Defence:0.5)
+Made shots: 11.0
+Missed shots: 11.67
+Field goal percentage: 48.53%
+Assists: 4.67
+Steals: 9.67
+
+Alex (Attack:0.5 Defence:0.5)
+Made shots: 9.33
+Missed shots: 13.33
+Field goal percentage: 41.18%
+Assists: 3.0
+Steals: 12.33
+
+Howard (Attack:0.7 Defence:0.2 Rebounding:0.1)
+Made shots: 0.0
+Missed shots: 1.67
+Field goal percentage: 0.0%
+Assists: 0.33
+Blocks: 0.0
+Offensive Rebounds: 3.33
+Defensive Rebounds: 22.67
+
+Final scores:
+
+Game number: 1 Team One: 19 - Team Two: 21
+Game number: 2 Team One: 18 - Team Two: 21
+Game number: 3 Team One: 21 - Team Two: 19
+Team One won: 1 times
+Team Two won: 2 times
+
+
+Closing the document
