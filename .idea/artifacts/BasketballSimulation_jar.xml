@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BasketballSimulation:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BasketballSimulation_jar</output-path>
+    <root id="archive" name="BasketballSimulation.jar">
+      <element id="module-output" name="BasketballSimulation" />
+    </root>
+  </artifact>
+</component>
